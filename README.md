@@ -1,3 +1,8 @@
+This project was built and deployed to the web using firebase
+
+Here's the URL of the deployed project.
+https://clone-b7609.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
